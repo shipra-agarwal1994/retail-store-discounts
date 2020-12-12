@@ -1,5 +1,5 @@
-# Apply Discount on the bill amount API
-### This project is about the bill discount
+# Retail Store Discounts
+### This project is about the discount to be applied on user bill amount
 
 ## Prerequisite
     - Install Java 1.8 O
